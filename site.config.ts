@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'MMA-combat-sports on Notion ',
-  domain: 'nextjs-notion-starter-kit.transitivebullsh.it',
+  domain: 'mmasports-notion.vercel.app',
   author: 'George Naranjo',
 
   // open graph metadata (optional)
