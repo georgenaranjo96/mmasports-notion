@@ -9,15 +9,15 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'MMA-combat-sports on Notion ',
-  domain: 'mmasports-notion.vercel.app',
+  name: 'MMA-combat-sports club ',
+  domain: 'mmasports.club',
   author: 'George Naranjo',
 
   // open graph metadata (optional)
   description: 'MMA News and updates',
 
   // social usernames (optional)
-  twitter: 'mmacombatsportsclub',
+  twitter: 'mmasportsclub',
   github: 'mmacombatsportsclub',
   linkedin: 'mmacombatsportsclub',
   // instagram: 'mmacombatsportsclub',
